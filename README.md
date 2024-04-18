@@ -18,7 +18,6 @@ Thanks for dropping by! I'm a seasoned software engineer with a zest for innovat
 
 ## Tech stack
 
----
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" /><img width="12" />
@@ -61,7 +60,6 @@ Thanks for dropping by! I'm a seasoned software engineer with a zest for innovat
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo" /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  height="60" alt="github logo"/>
 
----
 
 ##  📫 Get in Touch
 
