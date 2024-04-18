@@ -24,8 +24,8 @@ Thanks for dropping by! I'm a seasoned software engineer with a zest for innovat
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
-<div align="center" style="background: rgb(255,255,255); padding: 10px 20px 20px  20px; margin: 10px; box-sizing: content-box;  flex-basis: 50%; flex-grow: 1;">
-<p align="center" style="font-size: 22px; color: #000000; background:#ffffff;">Front-end</p>
+<div align="left" style="background: rgb(255,255,255); padding: 10px 20px 20px  20px; margin: 10px; box-sizing: content-box;  flex-basis: 50%; flex-grow: 1;">
+<p align="left" style="font-size: 22px; color: #000000; background:#ffffff;">Front-end</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
@@ -52,8 +52,8 @@ Thanks for dropping by! I'm a seasoned software engineer with a zest for innovat
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"  height="60" alt="jira logo" />
 </div>
 
-<div align="center" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 30%; flex-grow: 1;">
-<p align="center" style="font-size: 22px; color: #000000; background:#ffffff;">Back-end</p>
+<div align="left" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 30%; flex-grow: 1;">
+<p align="left" style="font-size: 22px; color: #000000; background:#ffffff;">Back-end</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
@@ -67,28 +67,28 @@ Thanks for dropping by! I'm a seasoned software engineer with a zest for innovat
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg"  height="60" alt="jira logo"/>
 </div>
 
-<div align="center" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 20%; flex-shrink: 1;">
-<p align="center" style="font-size: 22px; color: #000000; background:#ffffff;">Cloud</p>
+<div align="left" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 20%; flex-shrink: 1;">
+<p align="left" style="font-size: 22px; color: #000000; background:#ffffff;">Cloud</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" alt="aws logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="60" alt="gcp logo"  />
 </div>
 
-<div align="center" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 50%; flex: 1;">
-<p align="center" style="font-size: 22px; color: #000000; background:#ffffff;">Databases</p>
+<div align="left" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 50%; flex: 1;">
+<p align="left" style="font-size: 22px; color: #000000; background:#ffffff;">Databases</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  height="60" alt="mysql logo" /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="60" alt="redis logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="60" alt="mongodb logo" />
 </div>
-<div align="center" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 18%;">
-<p align="center" style="font-size: 22px; color: #000000; background:#ffffff;">Learning</p>
+<div align="left" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 18%;">
+<p align="left" style="font-size: 22px; color: #000000; background:#ffffff;">Learning</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60" alt="java logo"  />
 <img width="12" />
 </div>
 
-<div align="center" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 50%; flex-grow: 1;">
-<p align="center" style="font-size: 22px; color: #000000; background:#ffffff;">Tools</p>
+<div align="left" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 50%; flex-grow: 1;">
+<p align="left" style="font-size: 22px; color: #000000; background:#ffffff;">Tools</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="60" alt="jira logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
