@@ -15,11 +15,10 @@ Thanks for dropping by! I'm a seasoned software engineer with a zest for innovat
 - **Algorithmic Trading**: I explore the intricate dance of numbers and markets, designing algorithms that not only predict trends but also adapt to them.
 - **Artificial Intelligence**: From neural networks to machine learning models, I am fascinated by AI's potential to transform industries and daily life.
 
+
 ## Tech stack
 
 ---
-
-### Front-end
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" /><img width="12" />
@@ -37,35 +36,20 @@ Thanks for dropping by! I'm a seasoned software engineer with a zest for innovat
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"  height="60" alt="graphql logo" /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" height="60" alt="grpc logo" /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="60" alt="apachekafka logo" />
-
-
----
-### Back-end
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="node logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg"  height="60" alt="jira logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  /><img width="12" />
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60" alt="java logo"  />
 ---
-### Cloud
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" alt="aws logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="60" alt="gcp logo"  />
-
 ---
-### Databases
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  height="60" alt="mysql logo" /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="60" alt="redis logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="60" alt="mongodb logo" />
-
 ---
-### Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60" alt="java logo"  />
-
----
-### Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="60" alt="jira logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  /><img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" height="60" alt="yarn logo"  /><img width="12" />
