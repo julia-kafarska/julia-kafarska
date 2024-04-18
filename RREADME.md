@@ -1,58 +1,125 @@
-# 👩🏻‍💻 Julia Kafarska
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+<div style="display: flex">
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+<div style="flex: 1; flex-basis: 60%">
+<h1 align="left" style="color: white;">Hey 👋 I'm Julia</h1>
+
+Thanks for dropping by! I'm a seasoned software engineer with a zest for innovative solutions and a sense of humor. Here’s a little bit about me:
+
+### 🖥️ Professional Life
+
+- **Software Engineer & Architect**: With a keen eye for design and efficiency, I specialize in building robust, scalable software systems. My work involves orchestrating the interplay between technology and user needs, ensuring that each line of code not only performs optimally but also integrates seamlessly into the larger system.
+- **Tech Visionary**: Driven by a passion for advanced technologies, I focus on leveraging artificial intelligence and algorithmic trading to transform ideas into innovative solutions that push the boundaries of what software can achieve.
+- **Lead by Example**: I take pride in leading projects and teams towards achieving engineering excellence. My approach blends strong technical leadership with mentorship, fostering an environment where knowledge is shared and innovation thrives.
+
+### 🔍 My Passions
+
+- **Movies**: A film aficionado, I draw inspiration from cinema's vast landscapes and deep narratives. Whether it's a classic noir or the latest sci-fi, each film feeds my creativity.
+- **Algorithmic Trading**: I explore the intricate dance of numbers and markets, designing algorithms that not only predict trends but also adapt to them.
+- **Artificial Intelligence**: From neural networks to machine learning models, I am fascinated by AI's potential to transform industries and daily life.
+
+</div>
+<div style="width: 460px">
+<img src="octocat-julia-kafarska.png" height="500" alt="octocat"  />
+</div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
+<div align="center" style="background: rgb(255,255,255); padding: 10px 20px 20px  20px; margin: 10px; box-sizing: content-box;  flex-basis: 50%; flex-grow: 1;">
+<p align="center" style="font-size: 22px; color: #000000; background:#ffffff;">Front-end</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60"  alt="mui logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="60" alt="vue.js logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="60" alt="sass logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"height="60" alt="fllutter logo"   /><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg"  height="60" alt="jira logo" /><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="60" alt="jira logo"/><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"  height="60" alt="jira logo"/><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg"  height="60" alt="jira logo"/><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"  height="60" alt="jira logo" />
+</div>
+
+<div align="center" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 30%; flex-grow: 1;">
+<p align="center" style="font-size: 22px; color: #000000; background:#ffffff;">Back-end</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="node logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"  height="60" alt="jira logo" /><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg"  height="60" alt="jira logo" /><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg"  height="60" alt="jira logo"/>
+</div>
+
+<div align="center" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 20%; flex-shrink: 1;">
+<p align="center" style="font-size: 22px; color: #000000; background:#ffffff;">Cloud</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" alt="aws logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="60" alt="gcp logo"  />
+</div>
+
+<div align="center" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 50%; flex: 1;">
+<p align="center" style="font-size: 22px; color: #000000; background:#ffffff;">Databases</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  height="60" alt="mysql logo" /><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="60" alt="redis logo"  /><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  /><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="60" alt="mongodb logo" />
+</div>
+<div align="center" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 18%;">
+<p align="center" style="font-size: 22px; color: #000000; background:#ffffff;">Learning</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60" alt="java logo"  />
+<img width="12" />
+</div>
+
+<div align="center" style="background: rgba(255,255,255,1); padding: 10px 20px 20px 20px;  margin: 10px; box-sizing: content-box;  flex-basis: 50%; flex-grow: 1;">
+<p align="center" style="font-size: 22px; color: #000000; background:#ffffff;">Tools</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="60" alt="jira logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" height="60" alt="yarn logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" height="60" alt="webpack logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height="60" alt="slack logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="60" alt="webstorm logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" height="60" alt="thealgorithms logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  height="60" alt="git logo"/><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo" /><img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  height="60" alt="github logo"/>
+</div>
+</div>
+
+### 📫 Get in Touch
+
+Feel free to reach out for collaborations or just a chat:
+
+- [LinkedIn](https://www.linkedin.com/in/julia-kafarska/)
+- [GitHub](https://github.com/julia-kafarska)
+- [Calendly](https://calendly.com/julia-kafarska)
+- [julia.kafarska@gmail.com](mailto:julia.kafarska@gmail.com)
+
+Grab a coffee and let’s create something extraordinary together!
 
 ---
 
-### 🧰 Languages and Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-
-#
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![I Made a Custom GitHub Profile README Portfolio (and you can, too)](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "I Made a Custom GitHub Profile README Portfolio (and you can, too)")](https://www.youtube.com/watch?v=9A8sQZDRn5o)
-[![5 Coding Projects (from beginner to advanced)](https://ytcards.demolab.com/?id=n2B-FClr5rA&title=5+Coding+Projects+%28from+beginner+to+advanced%29&timestamp=1663079409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1090 "5 Coding Projects (from beginner to advanced)")](https://www.youtube.com/watch?v=n2B-FClr5rA)
-[![I Built an AI That Shoots Me in the Face When I Get Distracted](https://ytcards.demolab.com/?id=A8eegxL82PI&title=I+Built+an+AI+That+Shoots+Me+in+the+Face+When+I+Get+Distracted&timestamp=1662046201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=570 "I Built an AI That Shoots Me in the Face When I Get Distracted")](https://www.youtube.com/watch?v=A8eegxL82PI)
-[![Why I’m able to Code 4 Hours with NO breaks (how to stay focused & productive)](https://ytcards.demolab.com/?id=H68Iqm6c36U&title=Why+I%E2%80%99m+able+to+Code+4+Hours+with+NO+breaks+%28how+to+stay+focused+%26+productive%29&timestamp=1660140015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=538 "Why I’m able to Code 4 Hours with NO breaks (how to stay focused & productive)")](https://www.youtube.com/watch?v=H68Iqm6c36U)
-[![My Visual Studio Code Setup for Web Development](https://ytcards.demolab.com/?id=H2gvHxC9gFY&title=My+Visual+Studio+Code+Setup+for+Web+Development&timestamp=1659103208&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=922 "My Visual Studio Code Setup for Web Development")](https://www.youtube.com/watch?v=H2gvHxC9gFY)
-[![Everything You NEED to Know About WEB APP Architecture](https://ytcards.demolab.com/?id=sDlCSIDwpDs&title=Everything+You+NEED+to+Know+About+WEB+APP+Architecture&timestamp=1655911813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=627 "Everything You NEED to Know About WEB APP Architecture")](https://www.youtube.com/watch?v=sDlCSIDwpDs)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncofortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+"Remember: Code is like humor. When you have to explain it, it’s bad." - My take on a well-known truth.
