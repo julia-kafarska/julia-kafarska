@@ -1,4 +1,4 @@
-<img src="octocat-julia-kafarska.png" height="500" alt="octocat"  />
+<img src="octocat-julia-kafarska.png" height="200" alt="octocat"  />
 
 <h1 align="left" style="color: white;">Hey 👋 I'm Julia</h1>
 Thanks for dropping by! I'm a seasoned software engineer with a zest for innovative solutions and a sense of humor. Here’s a little bit about me:
