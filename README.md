@@ -14,6 +14,7 @@ Thanks for dropping by! I'm a seasoned software engineer with a zest for innovat
 - **Movies**: A film aficionado, I draw inspiration from cinema's vast landscapes and deep narratives. Whether it's a classic noir or the latest sci-fi, each film feeds my creativity.
 - **Algorithmic Trading**: I explore the intricate dance of numbers and markets, designing algorithms that not only predict trends but also adapt to them.
 - **Artificial Intelligence**: From neural networks to machine learning models, I am fascinated by AI's potential to transform industries and daily life.
+- **Isometric Game Development**: In my free time I'm working on open world realtime isometric multiplayer game.
 
 
 ## Tech stack
