@@ -68,11 +68,4 @@ Feel free to reach out for collaborations or just a chat:
 
 - [LinkedIn](https://www.linkedin.com/in/julia-kafarska/)
 - [GitHub](https://github.com/julia-kafarska)
-- [Calendly](https://calendly.com/julia-kafarska)
 - [julia.kafarska@gmail.com](mailto:julia.kafarska@gmail.com)
-
-Grab a coffee and let’s create something extraordinary together!
-
----
-
-"Remember: Code is like humor. When you have to explain it, it’s bad." - My take on a well-known truth.
