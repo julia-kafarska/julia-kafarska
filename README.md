@@ -1,20 +1,10 @@
 <img src="octocat-julia-kafarska.png" height="200" alt="octocat"  />
 
 <h1 align="left" style="color: white;">Hey 👋 I'm Julia</h1>
-Thanks for dropping by! I'm a seasoned software engineer with a zest for innovative solutions and a sense of humor. Here’s a little bit about me:
 
-### 🖥️ Professional Life
+I'm a software engineer. I run a small company called Light Cloud, where we're building ICE, the Integrated Cloud Environment. It's an open-source visual IDE for cloud infrastructure. The idea is simple: you should be able to see your AWS or GCP setup on a canvas and work with it directly, instead of writing hundreds of lines of YAML and hoping for the best. It's free, and it's aimed at solo developers and small teams who don't have a dedicated DevOps person.
 
-- **Software Engineer & Architect**: With a keen eye for design and efficiency, I specialize in building robust, scalable software systems. My work involves orchestrating the interplay between technology and user needs, ensuring that each line of code not only performs optimally but also integrates seamlessly into the larger system.
-- **Tech Visionary**: Driven by a passion for advanced technologies, I focus on leveraging artificial intelligence and algorithmic trading to transform ideas into innovative solutions that push the boundaries of what software can achieve.
-- **Lead by Example**: I take pride in leading projects and teams towards achieving engineering excellence. My approach blends strong technical leadership with mentorship, fostering an environment where knowledge is shared and innovation thrives.
-
-### 🔍 My Passions
-
-- **Movies**: A film aficionado, I draw inspiration from cinema's vast landscapes and deep narratives. Whether it's a classic noir or the latest sci-fi, each film feeds my creativity.
-- **Algorithmic Trading**: I explore the intricate dance of numbers and markets, designing algorithms that not only predict trends but also adapt to them.
-- **Artificial Intelligence**: From neural networks to machine learning models, I am fascinated by AI's potential to transform industries and daily life.
-- **Isometric Game Development**: In my free time I'm working on open world realtime isometric multiplayer game.
+Outside of work I watch a lot of movies, mostly sci-fi and horror but really anything. I read about AI, mess around with algorithmic trading, and in the evenings I work on a multiplayer isometric game I've been building for fun.
 
 
 ## Tech stack
@@ -67,5 +57,3 @@ Thanks for dropping by! I'm a seasoned software engineer with a zest for innovat
 Feel free to reach out for collaborations or just a chat:
 
 - [LinkedIn](https://www.linkedin.com/in/julia-kafarska/)
-- [GitHub](https://github.com/julia-kafarska)
-- [julia.kafarska@gmail.com](mailto:julia.kafarska@gmail.com)
