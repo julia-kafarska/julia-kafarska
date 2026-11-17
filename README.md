@@ -2,8 +2,7 @@
 
 <h1 align="left" style="color: white;">Hey 👋 I'm Julia</h1>
 
-I'm a software engineer. I run a small company called Light Cloud, where we're building ICE, the Integrated Cloud Environment. It's an open-source visual IDE for cloud infrastructure. The idea is simple: you should be able to see your AWS or GCP setup on a canvas and work with it directly, instead of writing hundreds of lines of YAML and hoping for the best. It's free, and it's aimed at solo developers and small teams who don't have a dedicated DevOps person.
-
+I’m a software engineer focused on backend and cloud architecture. I design and scale distributed systems, and I like keeping things simple and reliable as they grow.
 Outside of work I watch a lot of movies, mostly sci-fi and horror but really anything. I read about AI, mess around with algorithmic trading, and in the evenings I work on a multiplayer isometric game I've been building for fun.
 
 
